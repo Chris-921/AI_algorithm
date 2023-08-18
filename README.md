@@ -10,5 +10,3 @@ Compiler: Visual Studio Code
 Author: Zilong Guo
 
 Date: 2023
-
----
