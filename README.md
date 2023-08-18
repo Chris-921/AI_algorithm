@@ -1,6 +1,8 @@
 # AI_algorithm
 Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.
 
+** This repo only includes sample code and algorithms written by Zilong. The project idea are from the UCB CS188 class.
+
 ---
 
 ## Project 1 Search:
