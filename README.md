@@ -3,6 +3,9 @@ Ideas and techniques underlying the design of intelligent computer systems. Topi
 
 ** This repo only includes sample code and algorithms written by Zilong. The project ideas are from the UCB CS188 class.
 
+
+[Screenshots of Projects](Screenshot)
+
 ---
 
 ## Project 1 Search:
